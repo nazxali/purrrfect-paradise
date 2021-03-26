@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&display=swap');
+
+
+*{
+    background-color: pink;
+    box-sizing: border-box;
+    padding: 25px;
+    font-family: 'Berkshire Swash', cursive;
+    color: saddlebrown;
+
+}
+
+h1 {
+    font-size: 100px;
+    color: saddlebrown
+   
+}
+
+.redbackground {
+    background-color: plum;
+    color: saddlebrown;
+    
+}
+
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
+  
+h3 {
+        color: saddlebrown
+}
+
+h4 {
+    color: saddlebrown
+}
+
+.legal {
+    font-size: xx-small;
+
+
+}
